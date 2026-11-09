@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1794233302 source:c:\users\user\desktop\trabajo poo 2\tareaejecucion03\main.cpp
+	<iostream>
+	<array>
+	<string>
+	<fstream>
+
